@@ -1,1 +1,1 @@
-console.log("ts works!");
+console.log("index.ts works");
